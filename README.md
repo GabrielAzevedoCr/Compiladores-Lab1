@@ -71,10 +71,13 @@ Para o desafio final em Java, implementamos uma **Tabela de Símbolos** baseada 
 
 ### Atividade 5: Autômatos Finitos com JFLAP
 ![DFA_identificadores](Evidencia/DFA_Identificadores.png)
+__________________________________________________________________
 
 ![Fluxo DFA](Evidencia/FLuxo_DFA.png)
+__________________________________________________________________
 
-![Fluxo NFA](Evidencia/FLuxo NFA.png)
+![Fluxo NFA](Evidencia/FLuxo_NFA.png)
+_________________________________________________________________
 
 ![Scanner_DFA](Evidencia/Scanner_DFA.png)
 
