@@ -40,7 +40,9 @@ Criamos e testamos expressões regulares para validação de dados reais:
 * **E-mail:** `[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}`
 
 ![Print Regex - CPF](Evidencia/ativiade2_print_cpf.png)
+
 ![Print Regex - Telefone](Evidencia/ativiade2_print_Tel.png)
+
 ![Print Regex - Email](Evidencia/Ativiade2_print_email.png)
 
 ### Atividade 3: Find/Replace com regex em editores de texto
@@ -69,7 +71,11 @@ Para o desafio final em Java, implementamos uma **Tabela de Símbolos** baseada 
 
 ### Atividade 5: Autômatos Finitos com JFLAP
 ![DFA_identificadores](Evidencia/DFA_Identificadores.png)
+
 ![Fluxo DFA](Evidencia/FLuxo_DFA.png)
+
+![Fluxo NFA](Evidencia/FLuxo NFA.png)
+
 ![Scanner_DFA](Evidencia/Scanner_DFA.png)
 
 ### Atividade 6: OpenAI Tokenizer × Tokens de Compilador
